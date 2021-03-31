@@ -4,6 +4,8 @@ Java app that imports waypoints from Xaero's Minimap to JourneyMap (mods for Min
 ## Usage
 **Back up your `.minecraft` folder before running anything. I am not liable for any corrupted worlds or configs as a result of running this script.**
 
+This program requires Java installed on your machine to run. If you're playing Minecraft with these mods, that should already be the case.
+
 Download the tool from the [releases page](https://github.com/damien5314/JourneyMapWaypointImportTool/releases). The ZIP file contains scripts for Unix and Windows.
 
 The application requires you to specify the waypoints input file as well as the output directory for the JourneyMap imports:
