@@ -17,7 +17,7 @@ internal class XaeroWaypointParser {
         val reader = FileReader(inputFile)
         return reader.useLines { sequence ->
             sequence.asIterable()
-                .map { parseLine(it).also { println(it) } }
+                .map { parseLine(it) }
         }
     }
 
