@@ -28,12 +28,12 @@ PRs are welcome for enhancements to this tool. Support is currently limited to a
 
 Run the project with the gradle wrapper:
 
-```gradle
+```shell
 ./gradlew run --args="'XaeroWaypoints/MyWorld/dim%0/waypoints.txt' 'journeymap/data/sp/MyWorld/waypoints'"
 ```
 
 Create the executable scripts with `assemble`:
 
-```gradle
+```shell
 ./gradlew assemble
 ```
