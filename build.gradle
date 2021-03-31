@@ -11,6 +11,10 @@ application {
     mainClass = 'ddiehl.minecraft.jmwit.xaero.XaeroToJourneyMapConverterKt'
 }
 
+startScripts {
+    applicationName = 'journeymapImport'
+}
+
 repositories {
     mavenCentral()
 }
