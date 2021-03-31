@@ -1,5 +1,7 @@
-package ddiehl.minecraft.xtjm
+package ddiehl.minecraft.jmwit.xaero
 
+import ddiehl.minecraft.jmwit.ExitCode
+import ddiehl.minecraft.jmwit.JourneyMapWaypointWriter
 import java.io.File
 import kotlin.system.exitProcess
 

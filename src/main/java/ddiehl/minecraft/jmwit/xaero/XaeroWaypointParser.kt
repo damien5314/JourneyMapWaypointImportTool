@@ -1,5 +1,7 @@
-package ddiehl.minecraft.xtjm
+package ddiehl.minecraft.jmwit.xaero
 
+import ddiehl.minecraft.jmwit.ExitCode
+import ddiehl.minecraft.jmwit.Waypoint
 import java.awt.Color
 import java.io.File
 import java.io.FileReader

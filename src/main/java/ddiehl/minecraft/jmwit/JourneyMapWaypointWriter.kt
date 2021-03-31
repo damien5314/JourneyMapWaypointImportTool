@@ -1,4 +1,4 @@
-package ddiehl.minecraft.xtjm
+package ddiehl.minecraft.jmwit
 
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory

@@ -1,4 +1,4 @@
-package ddiehl.minecraft.xtjm
+package ddiehl.minecraft.jmwit
 
 import java.awt.Color
 

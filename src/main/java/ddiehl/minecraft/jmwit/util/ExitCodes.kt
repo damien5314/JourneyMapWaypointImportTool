@@ -1,4 +1,4 @@
-package ddiehl.minecraft.xtjm
+package ddiehl.minecraft.jmwit
 
 internal enum class ExitCode(val code: Int) {
     PROGRAM_ARGUMENTS(1),

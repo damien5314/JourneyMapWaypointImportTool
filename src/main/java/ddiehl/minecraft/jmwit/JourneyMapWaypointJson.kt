@@ -1,4 +1,4 @@
-package ddiehl.minecraft.xtjm
+package ddiehl.minecraft.jmwit
 
 internal class JourneyMapWaypointJson(
     val id: String,
